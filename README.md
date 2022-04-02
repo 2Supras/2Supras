@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @2Supras
-- 👀 I’m interested in cars, audio, pc builds, data analysis, 3d printing.
-- 🌱 I’m currently learning data analysis, 3d printing, basic coding.
-- 💞️ I’m looking to collaborate on everything, I want to learn everything.
-- 📫 How to reach me  @dan_g_rous
